@@ -1,0 +1,23 @@
+{
+  "name": "fullcycle-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasManto/fullcycle-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasManto/fullcycle-ci/issues"
+  },
+  "homepage": "https://github.com/LucasManto/fullcycle-ci#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
